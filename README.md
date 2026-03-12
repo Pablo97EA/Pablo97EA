@@ -1,15 +1,66 @@
-# 💫 About Me:
-# Hola, soy Pablo Espinoza 👋<br><br>💻 Desarrollador de Software Full-Stack de Costa Rica.<br><br>Soy graduado en Ingeniería en Sistemas con experiencia práctica en el desarrollo de aplicaciones web y móviles utilizando tecnologías modernas. Me gusta diseñar sistemas backend escalables, crear APIs limpias y eficientes, y desarrollar interfaces intuitivas para los usuarios.<br><br>Tengo experiencia trabajando con Java, PHP/Laravel, React, React Native, Python y bases de datos SQL. Me apasiona construir soluciones de software eficientes, bien estructuradas y orientadas a resolver problemas reales.<br><br>🚀 Intereses actuales:<br>- Aplicaciones con Inteligencia Artificial<br>- Arquitectura Backend<br>- Tecnologías Cloud<br>- Desarrollo de productos de software innovadores<br><br>🛠 Tecnologías:<br>- Lenguajes: Java, PHP, Python, C++, TypeScript, SQL<br>- Frameworks: Spring Boot, Laravel, React, React Native, Angular<br>- Bases de datos: SQL Server, MySQL, PostgreSQL<br>- Herramientas: Git, GitHub, REST APIs, VS Code, Visual Studio<br><br>📚 Formación:<br>- Bachiller en Ingeniería en Sistemas<br>- Experiencia en desarrollo Full-Stack y trabajo en entornos Agile/SCRUM<br><br> Me gusta aprender nuevas tecnologías y crear proyectos que puedan generar impacto y resolver problemas del mundo real.<br><br>📫 Contacto:<br>Email: eapablo97@gmail.com  <br>LinkedIn: https://www.linkedin.com/in/pablo-espinoza-araya-64225b360
+<div align="center">
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pablo97EA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pablo97EA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo97EA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 👋 Hola, soy Pablo Espinoza
+### 💻 Desarrollador Full-Stack | Ingeniería en Sistemas
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pablo97EA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 Sobre mí
+
+💻 Desarrollador apasionado por crear **aplicaciones web y móviles eficientes**.  
+🚀 Me enfoco en **backend, APIs escalables y soluciones innovadoras**.  
+🌱 Actualmente interesado en **Inteligencia Artificial, Cloud y arquitectura de software**.
+
+📍 Costa Rica  
+📫 **Email:** eapablo97@gmail.com  
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/pablo-espinoza-araya-64225b360
+
+---
+
+## 🛠 Tecnologías
+
+### Lenguajes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frameworks
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Bases de datos
+![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![](https://github-readme-stats.vercel.app/api?username=Pablo97EA&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo97EA&theme=tokyonight&layout=compact&hide_border=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Pablo97EA&theme=tokyonight&hide_border=true)
+
+---
+
+<div align="center">
+
+⭐ *Siempre aprendiendo nuevas tecnologías y construyendo proyectos interesantes.*
+
+</div>
