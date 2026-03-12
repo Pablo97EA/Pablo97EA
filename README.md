@@ -48,20 +48,9 @@ https://www.linkedin.com/in/pablo-espinoza-araya-64225b360
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-## 📊 Estadísticas de GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=Pablo97EA&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo97EA&theme=tokyonight&layout=compact&hide_border=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Pablo97EA&theme=tokyonight&hide_border=true)
-
----
 
 <div align="center">
 
-⭐ *Siempre aprendiendo nuevas tecnologías y construyendo proyectos interesantes.*
+⭐ *Siempre aprendiendo nuevas tecnologías*
 
 </div>
